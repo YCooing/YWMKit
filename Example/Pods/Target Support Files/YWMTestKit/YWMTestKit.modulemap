@@ -1,0 +1,6 @@
+framework module YWMTestKit {
+  umbrella header "YWMTestKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

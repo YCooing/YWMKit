@@ -1,0 +1,22 @@
+{
+  "name": "YWMTestKit",
+  "version": "0.1.0",
+  "summary": "A short description of YWMTestKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/329604646@qq.com/YWMTestKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "329604646@qq.com": "yun@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/329604646@qq.com/YWMTestKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YWMTestKit/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - YWMTestKit (0.1.0)
+
+DEPENDENCIES:
+  - YWMTestKit (from `../`)
+
+EXTERNAL SOURCES:
+  YWMTestKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YWMTestKit: 95afac9f1de73d669019b2554906eda25137d343
+
+PODFILE CHECKSUM: 5ea49738b4cc7cb9f91ec6ac873b99209bab9844
+
+COCOAPODS: 1.12.0

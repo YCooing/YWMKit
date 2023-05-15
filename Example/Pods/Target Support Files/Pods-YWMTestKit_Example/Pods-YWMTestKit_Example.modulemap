@@ -1,0 +1,6 @@
+framework module Pods_YWMTestKit_Example {
+  umbrella header "Pods-YWMTestKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
